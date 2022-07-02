@@ -23,5 +23,5 @@ No projeto foi usado o SWAGGER. Para saber as rotas disponíveis e os atributos 
 
 Todos os arquivos de Conexão e tokenização utilizado encontra-se no AppSettings.JSON na raiz do arquivo.
 
-
+O Banco de dados utilizado é publico. Não precisando fazer quaisquer modificações
 
