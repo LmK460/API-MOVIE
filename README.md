@@ -8,6 +8,7 @@ ITAU MOVIE API
 
 A DIFERENÇA DE CÓDIGO É GIGANTESCA E IMPOSSÍVEL DE IMPLEMENTAR EM 20 MINUTOS..
 
+#O projeto está na Pasta LetsMovie.
 
 Requisitos: .NET 6
 
@@ -21,3 +22,6 @@ Todas as rotinas de Banco farão os eventos de adicionar pontuação, troca de r
 No projeto foi usado o SWAGGER. Para saber as rotas disponíveis e os atributos basta "https://localhost:7052"/swagger/index.html, ou seja "baseurl" + /swagger/index.html.
 
 Todos os arquivos de Conexão e tokenização utilizado encontra-se no AppSettings.JSON na raiz do arquivo.
+
+
+
